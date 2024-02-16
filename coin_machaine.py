@@ -1,6 +1,4 @@
 import random
-#################### YT - Learn Python With This ONE Project!
-#################### https://youtu.be/th4OBktqK1I?si=B8pQTiNWPqc8RTlI
 MAX_LINES = 3
 MAX_BET = 100
 MIN_BET = 1
